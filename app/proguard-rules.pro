@@ -1,0 +1,2 @@
+-keep class com.example.aioldphotorestorer.model.** { *; }
+-dontwarn javax.annotation.**
